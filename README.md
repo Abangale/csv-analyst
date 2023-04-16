@@ -1,2 +1,2 @@
-# csv-sorter
-Coding untuk sorting file csv
+# CSV Sorter
+Sorter CSV menggunakan Library Sci-Kit Learn.
